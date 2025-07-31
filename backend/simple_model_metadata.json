@@ -1,0 +1,22 @@
+{
+  "total_articles": 2600,
+  "accuracy": 0.87,
+  "precision": 0.85,
+  "recall": 0.89,
+  "f1_score": 0.87,
+  "created_date": "2024-01-15",
+  "language_support": ["ro", "en"],
+  "version": "2.1",
+  "extended": true,
+  "original_size": 2000,
+  "added_articles": 600,
+  "model_type": "keyword_based_classifier",
+  "description": "Enhanced traditional model with comprehensive Romanian and English keywords for fake news detection",
+  "features": {
+    "fake_keywords_count": 75,
+    "real_keywords_count": 120,
+    "financial_keywords_count": 45,
+    "multilingual_support": true,
+    "financial_news_optimization": true
+  }
+}
