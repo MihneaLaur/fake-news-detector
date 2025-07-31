@@ -136,21 +136,21 @@ Rezultatele sunt prezentate în format condensat, cu opțiunea de expandare la a
 Secțiunea de setări oferă control granular asupra aplicației.
 
 ### Managementul Profilului
-![Preferințe Profil](images/setari3.png)
+![Preferințe Profil](images/setari1.png)
 
 - **Imagine personalizată**: JPG, PNG, GIF (max 5MB)
 - **Avatar automat**: generat din prima literă a username-ului
 - **Username fix**: nu poate fi modificat după creare
 
 ### Preferințele de Analiză
-![Notificări și Preferințe](images/setari1.png)
+![Notificări și Preferințe](images/setari2.png)
 
 - **Mod implicit**: Hibrid (recomandat)
 - **Timeout analiză**: 10-120 secunde
 - **Prag confidență**: 50-95%
 
 ### Personalizarea Aspectului
-![Setări Aspect](images/setari2.png)
+![Setări Aspect](images/setari3.png)
 
 - **Teme**: Light, Dark, Auto
 - **Culori accent**: albastru, verde, mov, roșu, portocaliu
