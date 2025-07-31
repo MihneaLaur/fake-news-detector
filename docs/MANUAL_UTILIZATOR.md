@@ -150,7 +150,7 @@ Secțiunea de setări oferă control granular asupra aplicației.
 - **Prag confidență**: 50-95%
 
 ### Personalizarea Aspectului
-![Setări Aspect](images/setari2.png)
+![Setări Aspect](images/setari 2.png)
 
 - **Teme**: Light, Dark, Auto
 - **Culori accent**: albastru, verde, mov, roșu, portocaliu
